@@ -1,0 +1,206 @@
+Chapter Title: TSUBOUCHI SHŌYŌ AND FUTABATEI SHIMEI
+Chapter Author(s): Atsuko Ueda
+
+Book Title: The Columbia Companion to Modern East Asian Literature
+Book Editor(s): Joshua S. Mostow, Kirk A. Denton, Bruce Fulton and Sharalyn Orbaugh
+Published by: Columbia University Press
+
+Stable URL: https://www.jstor.org/stable/10.7312/most11314.11
+
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+
+
+
+            Columbia University Press is collaborating with JSTOR to digitize, preserve and extend access
+            to The Columbia Companion to Modern East Asian Literature
+
+
+
+
+                                                    This content downloaded from
+                                  130.64.11.161 on Mon, 31 Jul 2023 07:41:00 +00:00
+                                            All use subject to https://about.jstor.org/terms
+                                              9
+
+       tsubouchi shōyō and futabatei shimei
+
+
+
+
+In spite of the varying reactions to The Essence of the Novel (Shosetsu shinzui,
+1885–86) by Tsubouchi Shoyo (1859–1935), literary historians generally agree
+that it is the first work that called for the production of the modern novel. It is
+considered the manifesto of modern Japanese literature, and Shoyo the founder
+of that institution. Defining the shosetsu (novel) as a work of art, it marks the be-
+ginning of modern literature, and its originary status is now rarely questioned.
+    In fact, however, there is a significant gap in modern Japanese literary his-
+tory. By virtue of its reputation as the origin of modern Japanese literature,
+everything that preceded The Essence of the Novel is too often designated as the
+“premodern.” The emergence of this seminal text is valorized to such an extent
+that The Essence of the Novel seems to have been produced in a vacuum. This
+work did not grow out of a vacuum; it is very much a product of its own histori-
+cal moment, shaped by the chaotic contingencies of Japan’s age of moderniza-
+tion.
+    Shoyo’s endeavor is often narrated in terms of “Western influence,” arguing
+that he urged his peers to emulate the “superior” literary practices of the West
+while discarding the “inferior” literature of Japan such as gesaku fiction (com-
+monly translated as “frivolous” or playful writings, referring to a genre that pro-
+liferated in the Edo and early Meiji periods). This type of narrative is still domi-
+nant among most literary scholars; in fact, The Essence of the Novel is still
+known for its criticism of gesaku, most notably of Takizawa Bakin’s (1767–1848)
+
+
+
+
+                           This content downloaded from
+         130.64.11.161 on Mon, 31 Jul 2023 07:41:00 +00:00
+                   All use subject to https://about.jstor.org/terms
+                                      Tsubouchi Shoyo and Futabatei Shimei     63
+
+works. Yet this characterization is too simplistic when we turn our attention to
+the chaotic space of production of The Essence of the Novel.
+    The chaos is clearly inscribed in the central entity taken up in the text,
+namely the shosetsu. Although the term shosetsu is now a standard translation of
+the word “novel” (or “novels”), the relationship between the two terms was by
+no means a given at the historical time in which Shoyo wrote. Despite the fact
+that numerous Western texts were translated in the early years of Meiji, it was
+not until the second decade (1878–88) that novels began to be translated. (See
+“Translated and Political Novels.”) The basic configuration of the Western
+novel was far from clear to Shoyo and to his contemporaries. We must not be
+misled by the translation of the title of Shoyo’s work into uncritically equating
+shosetsu and the novel. Shoyo creates and configures a new literary form, the
+shosetsu, in the textual realm of his essay.
+    As a theoretical work, The Essence of the Novel discusses a variety of topics,
+ranging from themes and types of shosetsu to the technical aspects of writing
+shosetsu, such as the styles of language to employ, and how to configure a pro-
+tagonist. The most famous section is entitled “The Main Theme of Shosetsu”
+(Shosetsu no shugan), which is often considered to be Shoyo’s most notable
+contribution to the development of modern Japanese literature. In it, he claims
+that shosetsu should thematize human emotions, focusing on the inner struggle
+of humanity. In fact, in comparison with this section, the other sections of The
+Essence of the Novel are devalued, often dismissed as a reflection of Shoyo’s not-
+yet-modernized sensibility. The kindai jiga (modern selfhood), the most no-
+table canonical theme of subsequent works of modern Japanese fiction, thus
+finds its origin retrospectively in The Essence of the Novel.
+    Shoyo attempted to actualize his theory in an experimental fictional work
+entitled Characters of Modern Students (Tosei shosei katagi, 1885). Yet he him-
+self later reflected that the work was a failure, and the overwhelming majority of
+critics follow his evaluation. Readers did not have to wait too long, however, for
+the appearance of the “true” novel, for Shoyo’s disciple, Hasegawa Tatsunosuke
+(1864–1909)—better known by his pen name, Futabatei Shimei—began to pub-
+lish Drifting Clouds (Ukigumo) in 1887. Published initially under Shoyo’s name
+because he was the more famous of the two, Drifting Clouds marks a significant
+moment in the history of modern Japanese literature; it is even now considered
+Japan’s first modern novel.
+    The narrative content of Drifting Clouds is relatively easy to summarize: the
+protagonist Utsumi Bunzo, a failed public servant, struggles internally with his
+love for his cousin Osei, continually trying to deduce her feelings for him. He is
+in torment when she appears to take a liking to his former colleague Noboru, a
+shrewd and practical man who has the social skills necessary for success in the
+risshin shusse (achievement-oriented) world of Meiji Japan, social skills that
+Bunzo lacks. The story remains unresolved, not only because the work is in-
+
+
+
+
+                                This content downloaded from
+              130.64.11.161 on Mon, 31 Jul 2023 07:41:00 +00:00
+                        All use subject to https://about.jstor.org/terms
+64       Tsubouchi Shoyo and Futabatei Shimei
+
+complete but also because of Bunzo’s complete inability to make an active
+move to change his miserable state of affairs.
+    From this summary it may be hard to fathom the reasons behind Drifting
+Clouds’ status in the history of modern Japanese literature. The novel’s reputa-
+tion rests on two important characteristics. First, its protagonist, Bunzo, is the
+quintessential antihero, an intellectual whose interiority is the main object of
+the story. Bunzo in many ways actualizes Shoyo’s claim that the shosetsu should
+feature internal human sufferings. Second, its narrative is written in *gen-
+bun’itchi—commonly translated as “the unification of spoken and written lan-
+guages”—the “modern language” of the new nation. Recent critical works such
+as those of Karatani Kojin and Komori Yoichi have questioned the characteriza-
+tion of Drifting Clouds as the first and most successful example of the modern
+novel. Nonetheless, the emphasis on the protagonist’s interiority as well as a
+story centering on the love relationship between Bunzo and his cousin Osei had
+a considerable impact on the literary scene.
+    Drifting Clouds had an important impact on Shoyo as well, who, after read-
+ing Futabatei’s work, decided to forgo writing novels altogether. Although he is
+most known in literary history for The Essence of the Novel, he wrote several
+novels after Characters of Modern Students, including Mirrors of Marriage
+(Imotose kagami, 1886) and The Wife (Saikun, 1889), in an effort to overcome
+the failure of his first experiment. After his encounter with Futabatei’s work,
+however, Shoyo, in retrospect, claimed that Drifting Clouds was the kind of
+novel he had aspired to write; he thereupon changed his career to that of liter-
+ary critic, dramatist, and translator (known especially for his translations of
+Shakespeare’s plays, which are still the standard). Though he had devalued
+drama considerably in his Essence of the Novel, Shoyo later devoted consider-
+able effort in the reform of Japanese drama.
+    Futabatei Shimei’s Drifting Clouds came out in several installments, often
+with long lapses in between. Struggling to produce a new narrative form,
+Futabatei’s endeavor with his first work by no means went smoothly. He experi-
+mented with his writing to produce a satisfying language with which to write a
+modern narrative. He turned to Russian in his experiments; he was sufficiently
+well versed in the language to write his first draft in Russian and then translate
+his own narrative back into Japanese. The longest lapse in publication of Drift-
+ing Clouds was between parts II and III (1888–89), during which time he pub-
+lished two famous translations of Turgenev’s works, namely “The Rendezvous”
+(Aibiki, 1850) and “Three Meetings” (Meguriai, 1851). In order to produce a
+modern narrative form in Drifting Clouds, he sought to emulate the narrating
+subjects of these two works.
+    Like many of his contemporaries, Futabatei was also a theorist, as is evident
+from his famous essay “Comprehensive Theory of the Shosetsu” (Shosetsu
+soron, 1886), which analyzed techniques of portrayal that were drawn from Rus-
+sian theorists, most notably Vissarion Belinsky. His ideas were actualized in
+
+
+
+
+                           This content downloaded from
+         130.64.11.161 on Mon, 31 Jul 2023 07:41:00 +00:00
+                   All use subject to https://about.jstor.org/terms
+                                       Tsubouchi Shoyo and Futabatei Shimei       65
+
+many ways in Drifting Clouds, though he ended its publication in 1889 pre-
+cisely because his own writing disillusioned him. It was not until 1906 that he
+wrote another fictional work of his own, The Image (Sono omokage), which was
+followed by Mediocrity (Heibon) in 1907. These two works fared well in the
+*naturalist trend that dominated the literary scene of the day, to the extent that
+they are now considered works of naturalist fiction.
+    Both Shoyo and Futabatei were writers who negotiated the turmoil of mod-
+ernization in their search for new narrative configurations. In many ways their
+careers as translators played a significant role in their linguistic experiments. For
+them, in writing a shosetsu the issue was not only what to write but also how to
+write. They lived in an era when the Japanese language was visibly heteroge-
+neous and dispersed. (See “The Problem of the Modern Subject.”) The phrase
+“Western influence,” too often used to characterize their efforts to produce a
+modern shosetsu, does not do justice to the complexity of their endeavors and
+the chaotic literary era within which they lived.
+                                                                       —Atsuko Ueda
+
+
+
+                                      Bibliography
+
+Futabatei Shimei. Mediocrity. Trans. Glenn W. Shaw. Tokyo: Hokuseido, 1927.
+Karatani Kojin. Origins of Modern Japanese Literature. Trans. Brett de Bary. Durham,
+   N.C.: Duke University Press, 1993.
+Komori Yoichi. Buntai toshite no monogatari (Monogatari As Literary Style). Tokyo:
+   Chikuma, 1998.
+Ryan, Marleigh Grayer. Japan’s First Modern Novel: “Ukigumo” of Futabatei Shimei.
+   New York: Columbia University Press, 1967.
+Tsubouchi Shoyo. “The Essence of the Novel.” Trans. Nanette Twine. Occasional Pa-
+   pers 11. Department of Japanese, University of Queensland, 1981.
+
+
+
+
+                                 This content downloaded from
+               130.64.11.161 on Mon, 31 Jul 2023 07:41:00 +00:00
+                         All use subject to https://about.jstor.org/terms
+
